@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "609361159394",
+    "project_id": "santimoi-d49ab",
+    "storage_bucket": "santimoi-d49ab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:609361159394:android:9158c35ad5b7e65b906abb",
+        "android_client_info": {
+          "package_name": "com.example.santimoi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "609361159394-16vs10qv3u460d9es065vremmmd4jdkb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFBzli42rbHpPCvHQFoXvLAcb4yDS74e8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "609361159394-16vs10qv3u460d9es065vremmmd4jdkb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
